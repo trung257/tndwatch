@@ -1,0 +1,125 @@
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:05 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:10 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:11 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:12 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:29 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:30 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:22:31 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'trungtoru25'@'localhost' (using password: YES) in /home/nlrivu0naxy4/public_html/lib/database.php on line 22
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 31
+[16-Nov-2023 16:25:29 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/nlrivu0naxy4/public_html/lib/database.php on line 32
+[18-Nov-2023 05:26:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nlrivu0naxy4/public_html/inc/header.php:169) in /home/nlrivu0naxy4/public_html/order.php on line 9
+[18-Nov-2023 05:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nlrivu0naxy4/public_html/inc/header.php:169) in /home/nlrivu0naxy4/public_html/order.php on line 9
+[18-Nov-2023 05:26:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nlrivu0naxy4/public_html/inc/header.php:169) in /home/nlrivu0naxy4/public_html/order.php on line 9
+[18-Nov-2023 05:26:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nlrivu0naxy4/public_html/inc/header.php:169) in /home/nlrivu0naxy4/public_html/order.php on line 9
+[18-Nov-2023 17:07:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nlrivu0naxy4/public_html/inc/header.php:168) in /home/nlrivu0naxy4/public_html/login.php on line 24
+[19-Nov-2023 00:35:30 Asia/Ho_Chi_Minh] PHP Warning:  require_once(./config.php): failed to open stream: No such file or directory in /home/nlrivu0naxy4/public_html/onlinepayment.php on line 120
+[19-Nov-2023 00:35:30 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required './config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nlrivu0naxy4/public_html/onlinepayment.php on line 120
+[18-Nov-2023 18:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nlrivu0naxy4/public_html/inc/header.php:168) in /home/nlrivu0naxy4/public_html/login.php on line 24
